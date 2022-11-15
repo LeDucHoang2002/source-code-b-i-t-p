@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786654640898",
+    "project_id": "th-lttdt",
+    "storage_bucket": "th-lttdt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786654640898:android:af41f8cf4c7c4a6c26e01b",
+        "android_client_info": {
+          "package_name": "com.foysaldev.leduchoang_2050531200150_bt10_ketnoifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786654640898-60vddursmnl99ptjje0prhj8omm7pn7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMpFlJ2ERMTSUZL-nhpEqLjh5Hd0OeYpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786654640898-60vddursmnl99ptjje0prhj8omm7pn7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
